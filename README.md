@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sales Data Analysis & Business Insights
 
 ## 📊 Project Overview
@@ -190,3 +191,7 @@ sales-data-analysis/
 
 
 
+=======
+# sales-data-analysis
+End-to-end sales data analysis using Python, SQL, and Power BI
+>>>>>>> ae9b73ee46cc6fe26249208e3f1563fff352d3f3
