@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sales Data Analysis & Business Insights
 
 ## 📊 Project Overview
@@ -9,8 +9,6 @@ regions, discounts, and payment methods.
 
 The project follows an end-to-end data analytics workflow using
 Python, Pandas, SQL, MySQL, and Power BI.
-
-
 
 ## 🎯 Project Objective
 
@@ -24,8 +22,6 @@ The main objectives of this project are to:
 - Understand the relationship between discounts and profitability.
 - Create an interactive Power BI dashboard.
 - Generate actionable business insights.
-
-
 
 ## 📁 Dataset
 
@@ -86,7 +82,6 @@ Business Insights
 Business Recommendations
 
 
-
 ## 📈 Key Performance Indicators
 
 | KPI | Value |
@@ -97,7 +92,6 @@ Business Recommendations
 | Total Quantity Sold | 25,747 |
 | Average Order Value | ₹24,667.60 |
 | Profit Margin | 17.72% |
-
 
 
 ## 🔍 Key Business Insights
@@ -112,15 +106,13 @@ Business Recommendations
   the same ranking.
 
 
-
-  ## 📊 Power BI Dashboard
+## 📊 Power BI Dashboard
 
 The interactive Power BI dashboard provides an overview of sales
 performance through KPIs, trends, regional analysis, category
 analysis, and top-product performance.
 
 ![Sales Performance Dashboard](screenshots/dashboard.png)
-
 
 
 ## 🧮 SQL Analysis
@@ -143,7 +135,6 @@ SQL was used to perform business-focused analysis including:
 - Month-over-month sales growth using LAG()
 
 
-
 ## 💡 Business Recommendations
 
 1. Prioritize high-performing electronics products and monitor their
@@ -161,8 +152,7 @@ SQL was used to perform business-focused analysis including:
    rather than revenue alone.
 
 
-
-   ## 📂 Project Structure
+## 📂 Project Structure
 
 sales-data-analysis/
 │
@@ -190,8 +180,6 @@ sales-data-analysis/
 └── README.md
 
 
-
-=======
 # sales-data-analysis
 End-to-end sales data analysis using Python, SQL, and Power BI
->>>>>>> ae9b73ee46cc6fe26249208e3f1563fff352d3f3
+
